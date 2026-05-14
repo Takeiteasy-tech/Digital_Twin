@@ -4,7 +4,7 @@ import random
 import plotly.express as px
 
 # =========================
-# STEP 10 — UI DESIGN
+#UI DESIGN
 # =========================
 
 st.title("🏭 AI-Based Digital Twin for Smart Factory")
