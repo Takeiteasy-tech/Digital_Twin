@@ -56,7 +56,7 @@ col3.metric("Critical", critical)
 st.markdown("---")
 
 # =========================
-# STEP 11 — MONITORING
+# MONITORING
 # =========================
 
 st.subheader("🛠 Machine Monitoring")
@@ -81,7 +81,7 @@ for index, row in df.iterrows():
     st.markdown("---")
 
 # =========================
-# STEP 12 — AI ALERTS
+# AI ALERTS
 # =========================
 
 st.subheader("🤖 AI Alerts")
@@ -102,7 +102,7 @@ else:
     st.success("✅ All machines operating normally")
 
 # =========================
-# STEP 13 — OPTIMIZATION
+# OPTIMIZATION
 # =========================
 
 st.subheader("💡 Optimization Suggestions")
